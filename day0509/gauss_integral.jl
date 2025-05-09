@@ -1,3 +1,5 @@
+#import Pkg
+#Pkg.activate(".")
 # 必要なパッケージをインポート
 using FastGaussQuadrature, LinearAlgebra
 
